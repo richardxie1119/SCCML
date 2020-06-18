@@ -25,6 +25,8 @@ Three data sets are available and used to demonstrate the classification workflo
 
 - **SIMS.pkl**: 1542 single cells from different rat brain regions (dorsal root ganglia (DRG) or cerebellum, m/z 500-850) acquired using secondary ion mass spectrometry
 
+Another data set is included to classify unlabeled cerebellar cells (~30k) using the model trained on labeled data (**30k_data.pkl**)
+
 Download this repo containing the notebooks and the scripts, and download the [processed data sets](https://drive.google.com/drive/folders/1a__5nrhcNX8ePqD31NZlsYlWKyIZaT8W?usp=sharing). Place the data sets into a data folder, and run the code in sc_classification notebook.
 
 
