@@ -21,7 +21,7 @@ Code to reproduce the figures in the paper are available in [this notebook](http
 Three data sets are available and used to demonstrate the classification workflow:
 - **HIP_CER.pkl**: 1201 single cells from different rat brain regions (hippocampus or cerebellum, m/z 50-500) on a 7T Fourier transform ion cyclotron resonance (FT-ICR) mass spectrometer.
 
-- **ICC.pkl**: 1544 rat cerebellar single cells labeled by immunocytochemistry (neurons or astrocytes, m/z 500-1000) acquired using MALDI-time-of-flight (TOF)-MS
+- **ICC_rms.pkl**: 1544 rat cerebellar single cells labeled by immunocytochemistry (neurons or astrocytes, m/z 500-1000) acquired using MALDI-time-of-flight (TOF)-MS
 
 - **SIMS.pkl**: 1542 single cells from different rat brain regions (dorsal root ganglia (DRG) or cerebellum, m/z 500-850) acquired using secondary ion mass spectrometry
 
