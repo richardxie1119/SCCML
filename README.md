@@ -1,6 +1,6 @@
 # SCMSML: Cell classification by single cell mass spectrometry and machine learning
 The code repository for results in the paper: 
-Manuscript: 
+Manuscript: Single-Cell Classification Using Mass Spectrometry Through Interpretable Machine Learning
 
 ![](https://github.com/richardxie1119/SCCML/blob/master/figure/main.png)
 
