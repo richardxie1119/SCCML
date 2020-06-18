@@ -2,7 +2,7 @@
 The code repository for results in the paper: 
 Manuscript: [Single-Cell Classification Using Mass Spectrometry Through Interpretable Machine Learning, Xie el al, Anal.Chem. 2020](https://pubs.acs.org/doi/10.1021/acs.analchem.0c01660)
 
-![](https://github.com/richardxie1119/SCCML/blob/master/figure/main.png width="200" height="200")
+![](https://github.com/richardxie1119/SCCML/blob/master/figure/main.png =250x250)
 
 Code to reproduce the figures in the paper are available in https://github.com/richardxie1119/SCCML/blob/master/notebooks/sc_classification.ipynb
 
