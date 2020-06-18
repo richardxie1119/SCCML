@@ -18,10 +18,13 @@ The code repository for results in the paper:
 ### To replicate results in paper
 Code to reproduce the figures in the paper are available in https://github.com/richardxie1119/SCCML/blob/master/notebooks/sc_classification.ipynb
 
-Download the repo containing the notebooks and the scripts, and download the [processed data sets]()
 Three data sets are available and used to demonstrate the classification workflow:
-- **HIP_CER**
+- **HIP_CER**: 1201 single cells from different rat brain regions (hippocampus or cerebellum, m/z 50-500) on a 7T Fourier transform ion cyclotron resonance (FT-ICR) mass spectrometer.
 
-- **ICC**: 
+- **ICC**: 1544 rat cerebellar single cells labeled by immunocytochemistry (neurons or astrocytes, m/z 500-1000) acquired using MALDI-time-of-flight (TOF)-MS
 
-- **SIMS**: 
+- **SIMS**: 1542 single cells from different rat brain regions (dorsal root ganglia (DRG) or cerebellum, m/z 500-850) acquired using secondary ion mass spectrometry
+
+Download this repo containing the notebooks and the scripts, and download the [processed data sets](). Place the data sets into a data folder, and run the code in sc_classification notebook.
+
+
