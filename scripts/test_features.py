@@ -6,7 +6,7 @@ from sklearn import svm
 from sklearn.svm import SVC
 from sklearn import linear_model
 from sklearn.metrics import classification_report, confusion_matrix  
-from sklearn.externals import joblib
+import joblib #dont need "from sklearn" for current version of skikit (specify in environment?)
 from sklearn.metrics import roc_curve, auc
 from scipy.stats import ranksums
 import matplotlib.pyplot as plt
