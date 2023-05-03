@@ -1,0 +1,23 @@
+name: sccml
+channels:
+  - conda-forge
+
+dependencies:
+  - pandas
+  - python
+  - yaml
+  - matplotlib
+  - seaborn
+  - numpy
+  - pip
+  - scipy
+  - scikit-learn
+  - scikit-image
+  - opencv
+  - scanpy
+  - pip:
+    - adjustText
+    - louvin
+    - spyteomics
+    - xgboost
+    - shap
