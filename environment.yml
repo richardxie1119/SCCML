@@ -16,7 +16,7 @@ dependencies:
   - opencv
   - scanpy
   - pip:
-    -adjustText
+    - adjustText
     - louvin
     - spyteomics
     - xgboost
